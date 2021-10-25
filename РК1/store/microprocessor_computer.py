@@ -1,0 +1,27 @@
+from model.microprocessor_computer import MicroprocessorComputer
+
+computers_with_microprocessor = [
+    MicroprocessorComputer(1, 3),
+    MicroprocessorComputer(1, 2),
+    MicroprocessorComputer(1, 1),
+    MicroprocessorComputer(2, 3),
+    MicroprocessorComputer(3, 1),
+    MicroprocessorComputer(3, 22),
+    MicroprocessorComputer(4, 3),
+    MicroprocessorComputer(5, 2),
+    MicroprocessorComputer(6, 2),
+    MicroprocessorComputer(7, 1),
+    MicroprocessorComputer(8, 1),
+    MicroprocessorComputer(9, 1),
+    MicroprocessorComputer(9, 2),
+    MicroprocessorComputer(9, 3),
+    MicroprocessorComputer(9, 11),
+    MicroprocessorComputer(10, 11),
+    MicroprocessorComputer(11, 11),
+    MicroprocessorComputer(11, 12),
+    MicroprocessorComputer(12, 1),
+    MicroprocessorComputer(12, 2),
+    MicroprocessorComputer(12, 3),
+    MicroprocessorComputer(12, 11),
+    MicroprocessorComputer(12, 22),
+]
