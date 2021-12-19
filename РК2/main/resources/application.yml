@@ -4,8 +4,8 @@ server:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/person_from_crud_app?ssl-mode=REQUIRED&serverTimezone=Europe/Moscow
-    username: Admin
-    password: Tamikwqwqw1
+    username: 
+    password: 
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
